@@ -60,7 +60,7 @@ After allowing our algorithms to run over thousands of training cycles, our meth
 
 # Conclusions + Next Steps
 
-This project represented a significant implementation bridging the fields of Reinforcement Learning, Remote Sensing, and Geospatial Informatics. In the extent it broadly expanded my own personal knowledge of RL, actor-critic methods, remote sensing data, GIS, and the intersection of physical/parametric and learned/non-parametric models, it was a market success.
+This project represented a significant implementation bridging the fields of Reinforcement Learning, Remote Sensing, and Geospatial Informatics. In the extent it broadly expanded my own personal knowledge of RL, actor-critic methods, remote sensing data, GIS, and the intersection of physical/parametric and learned/non-parametric models, it was a marked success.
 
 Moving forward, this work could be improved through:
 -less parameterization to derive a more complex state space and improve performance
